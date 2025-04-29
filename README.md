@@ -16,6 +16,8 @@ This concept version of electron-fiddle-vscode-extension contains basic features
 - Importing Gist as Fiddle
 - Publishing Fiddle as Gist `either publicly or secretly`
 - Switching GitHub accounts `for import/export without signing out globally`
+- New Fiddle option `to initialize a simple Fiddle`
+- Report New Issue `to open new issue`
 
 ## Features to be added
 
@@ -23,7 +25,6 @@ Features currently being worked on and will be added soon:
 - Take Electron version as input from user `allow users to select the Electron version for running and bisecting, efficiently`
 - Running Fiddles from a custom path `enabling users to define a path through which the Fiddle runs`
 - Bisecting Fiddles from a custom path `enabling users to define a path through which the Fiddle bisects`
-- New Fiddle option `to initialize a simple Fiddle`
 - Electron Manager `to download, install, and manage local Electron versions efficiently`
 
 ## Features which can be added

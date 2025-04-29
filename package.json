@@ -33,6 +33,14 @@
       {
         "command": "electron-fiddle.switchAccount",
         "title": "Fiddle: Switch Account"
+      },
+      {
+        "command": "electron-fiddle.createNewFiddle",
+        "title": "Fiddle: Create New Fiddle"
+      },
+      {
+        "command": "electron-fiddle.reportIssue",
+        "title": "Fiddle: Report New Issue"
       }
     ]
   },

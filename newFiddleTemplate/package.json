@@ -1,0 +1,14 @@
+{
+  "name": "elfin-iron-shut-xe7so",
+  "productName": "elfin-iron-shut-xe7so",
+  "description": "My Electron application description",
+  "keywords": [],
+  "main": "./main.js",
+  "version": "1.0.0",
+  "author": "hp",
+  "scripts": {
+    "start": "electron ."
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
